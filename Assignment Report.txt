@@ -1,0 +1,18 @@
+Andrew Schatz
+
+========================Paper Copy Requested=================================
+
+My biggest struggle with this assignment was working with the BufferedImage import.  I tried to use a frog, dead frog, car,
+and background, all of which I drew in Microsoft Paint (because I'm an amazing artist).
+
+Instead of using BufferedImage, I drew my frog and cars within Java on top of a black background with a street.
+
+The car's speed is based on your score instead of a timer.  The higher your score, the faster the car.
+
+When you get to the other side, the frog resets at the original position of the screen.
+
+When the frog intersects with either car, the game is over and you have to hit Enter again to restart.
+
+
+
+P.S. I'm really not sure what's necessary for this assignment report.
